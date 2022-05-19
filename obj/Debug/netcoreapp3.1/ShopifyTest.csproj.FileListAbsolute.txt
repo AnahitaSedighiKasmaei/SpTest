@@ -1,0 +1,16 @@
+D:\Windsor University\Semester3\Shopify\ShopifyTest\bin\Debug\netcoreapp3.1\ShopifyTest.exe
+D:\Windsor University\Semester3\Shopify\ShopifyTest\bin\Debug\netcoreapp3.1\ShopifyTest.deps.json
+D:\Windsor University\Semester3\Shopify\ShopifyTest\bin\Debug\netcoreapp3.1\ShopifyTest.runtimeconfig.json
+D:\Windsor University\Semester3\Shopify\ShopifyTest\bin\Debug\netcoreapp3.1\ShopifyTest.runtimeconfig.dev.json
+D:\Windsor University\Semester3\Shopify\ShopifyTest\bin\Debug\netcoreapp3.1\ShopifyTest.dll
+D:\Windsor University\Semester3\Shopify\ShopifyTest\bin\Debug\netcoreapp3.1\ShopifyTest.pdb
+D:\Windsor University\Semester3\Shopify\ShopifyTest\obj\Debug\netcoreapp3.1\ShopifyTest.csproj.AssemblyReference.cache
+D:\Windsor University\Semester3\Shopify\ShopifyTest\obj\Debug\netcoreapp3.1\ShopifyTest.Properties.Resources.resources
+D:\Windsor University\Semester3\Shopify\ShopifyTest\obj\Debug\netcoreapp3.1\ShopifyTest.csproj.GenerateResource.cache
+D:\Windsor University\Semester3\Shopify\ShopifyTest\obj\Debug\netcoreapp3.1\ShopifyTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Windsor University\Semester3\Shopify\ShopifyTest\obj\Debug\netcoreapp3.1\ShopifyTest.AssemblyInfoInputs.cache
+D:\Windsor University\Semester3\Shopify\ShopifyTest\obj\Debug\netcoreapp3.1\ShopifyTest.AssemblyInfo.cs
+D:\Windsor University\Semester3\Shopify\ShopifyTest\obj\Debug\netcoreapp3.1\ShopifyTest.csproj.CoreCompileInputs.cache
+D:\Windsor University\Semester3\Shopify\ShopifyTest\obj\Debug\netcoreapp3.1\ShopifyTest.dll
+D:\Windsor University\Semester3\Shopify\ShopifyTest\obj\Debug\netcoreapp3.1\ShopifyTest.pdb
+D:\Windsor University\Semester3\Shopify\ShopifyTest\obj\Debug\netcoreapp3.1\ShopifyTest.genruntimeconfig.cache
